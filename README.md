@@ -30,6 +30,6 @@ Organizer: Jeong Ju-cheol
 Position: Dean of Pusan National University College of Engineering
 ## Authors
 
-- Producer: Lee Jinwook
+- Producer: Lee Jinug
 - Producer Mail: jinug0905@gmail.com
 
