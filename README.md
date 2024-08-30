@@ -30,6 +30,6 @@ Organizer: Juchul Jung phd, Dean of Engineering, Pusan National University
 Position: Dean of Pusan National University College of Engineering
 ## Authors
 
-- Producer: Lee Jinug, Master student in Department of Computer Science and Engineering, Texas A&M 
+- Producer: Jinug Lee, Master student in Department of Computer Science and Engineering, Texas A&M 
 - Producer E-mail: jinug0905@gmail.com
 
