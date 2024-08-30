@@ -21,15 +21,15 @@ Required Library
 ## Authors
 
 - 제작자 : 이진욱 
-- 제작자 메일 : jinug0905@gmail.com
+- 제작자 이메일 : jinug0905@gmail.com
 
 Organization: Pusan National University College of Engineering
 
-Organizer: Jeong Ju-cheol
+Organizer: Juchul Jung phd, Dean of Engineering, Pusan National University
 
 Position: Dean of Pusan National University College of Engineering
 ## Authors
 
-- Producer: Lee Jinug
-- Producer Mail: jinug0905@gmail.com
+- Producer: Lee Jinug, Master student in Department of Computer Science and Engineering, Texas A&M 
+- Producer E-mail: jinug0905@gmail.com
 
